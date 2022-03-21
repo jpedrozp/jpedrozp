@@ -1,6 +1,6 @@
 ![BANNER](https://user-images.githubusercontent.com/100879075/159341908-89bcf103-e321-4b9f-b837-d9cdc5158b03.png)
 
-### Oii, Eu sou a Catarina.
+### Hi, I am Catarina.
 I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.
 
 
