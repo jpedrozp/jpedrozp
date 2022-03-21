@@ -1,4 +1,4 @@
-<img src="https://github.com/catarinalimaa/catarinalimaa/BANNER.png">
+<img src="https://github.com/catarinalimaa/catarinalimaa/BANNER">
 
 ### Hi 👋
 I'm studying Computer Science, just looking for opportunities, collaborating on projects, and always learning.
