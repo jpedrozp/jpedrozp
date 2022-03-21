@@ -1,4 +1,4 @@
-![BANNER](https://user-images.githubusercontent.com/100879075/159341908-89bcf103-e321-4b9f-b837-d9cdc5158b03.png)
+![png_20220321_163658_0000](https://user-images.githubusercontent.com/100879075/159350912-cf5ed045-4053-42e0-a25e-aea7be95eb00.png)
 
 # Hi, I am Catarina.
 I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.
