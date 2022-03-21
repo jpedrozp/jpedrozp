@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/catarinalimaa/catarinalimaa/BANNER.png">
 
 ### Hi 👋
 I'm studying Computer Science, just looking for opportunities, collaborating on projects, and always learning.
