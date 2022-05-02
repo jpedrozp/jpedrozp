@@ -35,9 +35,9 @@ and always learning.</p>
 <img src="https://img.shields.io/badge/python%20-4682B4.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br><br>
 For now, I'm studying Python, it's a very compact and easy to learn language. I take a lot of courses, in addition to college, and I hope to be very good in this field.
 </p>
-<br><br><br><br>
+<br><br><br><br><br>
  <h1 align="center">Contact me.</h1>
-<img src="https://64.media.tumblr.com/2948e4025bb36998970e29d1eb2ac56f/ab83d7c3ff1aa93b-3e/s250x400/f015b98fc5c5b213f3824069b1745bdc51a46906.gifv" align="left" width="40%" height="px">
+<img src="https://64.media.tumblr.com/2948e4025bb36998970e29d1eb2ac56f/ab83d7c3ff1aa93b-3e/s250x400/f015b98fc5c5b213f3824069b1745bdc51a46906.gifv" align="left" width="35%" height="px">
 <br>
 <p align="center">Some social stuff <3</p>
 <p align="center"><a href="https://instagram.com/jpedrozp" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://discord.me/joaopedrox" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
