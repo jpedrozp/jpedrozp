@@ -14,7 +14,7 @@ and always learning.</p>
 <b>Gender:</b> He/him 🏳️‍⚧️
 </li>
 <li>
-<b>Hobbys:</b> Tech stuff, read books and play Minecraft.
+<b>Hobbys:</b> Tech stuff, listen to Metalcore and play Minecraft.
 </li>
 <li>
  <b>Obsessions:</b> Marvel and Shingeki no kyojin
