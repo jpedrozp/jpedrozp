@@ -27,7 +27,7 @@ and always learning.</p>
 <div>
 <br>
 <p>
-<img src="https://64.media.tumblr.com/3db4d8ec707cfd6bd35ee9753779e434/9a1c050934a6b785-a4/s400x600/866846b726b9e009cdbc6af5287ff987b84b6d10.gif" align="right"><br>
+<img src="https://64.media.tumblr.com/3db4d8ec707cfd6bd35ee9753779e434/9a1c050934a6b785-a4/s400x600/866846b726b9e009cdbc6af5287ff987b84b6d10.gif" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/php%20-%2331A8FF.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
@@ -35,7 +35,7 @@ and always learning.</p>
 <img src="https://img.shields.io/badge/python%20-4682B4.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br><br>
 I'm a beginner, but for now I'm studying Python, it's a very compact and easy to learn language. I take a lot of courses, in addition to college, and I hope to be very good in this field.
 </p>
-<br><br><br>
+<br><br><br><br>
  <h1 align="center">Contact me.</h1>
 <img src="https://64.media.tumblr.com/2948e4025bb36998970e29d1eb2ac56f/ab83d7c3ff1aa93b-3e/s250x400/f015b98fc5c5b213f3824069b1745bdc51a46906.gifv" align="left" width="30%" height="px">
 <br>
