@@ -33,7 +33,7 @@ and always learning.</p>
 <p align="center"><img src="https://img.shields.io/badge/php%20-%2331A8FF.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/bootstrap%20-%2343853D.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-4682B4.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br><br>
-I'm a beginner, but for now I'm studying Python, it's a very compact and easy to learn language. I take a lot of courses, in addition to college, and I hope to be very good in this field.
+For now, I'm studying Python, it's a very compact and easy to learn language. I take a lot of courses, in addition to college, and I hope to be very good in this field.
 </p>
 <br><br><br><br>
  <h1 align="center">Contact me.</h1>
