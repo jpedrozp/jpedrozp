@@ -4,7 +4,7 @@
 and always learning.</p>
 <br><br>
 <h1 align="center">About me :) </h1>
-<img src="https://64.media.tumblr.com/0e65676674be337c870c958868c70c42/0b8ac45df66aa86f-a5/s400x600/89d3a5bb68b2e7d908f329aeabff66b30a45554a.gif" align="left" width=25%>
+<img src="https://64.media.tumblr.com/0e65676674be337c870c958868c70c42/0b8ac45df66aa86f-a5/s400x600/89d3a5bb68b2e7d908f329aeabff66b30a45554a.gif" align="left" width=300>
 <li>
  <b>Name:</b> João Pedro
 <li>
