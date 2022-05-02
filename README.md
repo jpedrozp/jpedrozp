@@ -1,10 +1,38 @@
-README.md![png_20220321_163658_0000](https://user-images.githubusercontent.com/100879075/159350912-cf5ed045-4053-42e0-a25e-aea7be95eb00.png)
 
-# Hi, I am Catarina.
+
+# Hi, I am Jp
 I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.
+<br><br>
 
 
-<div style="display: inline_block"><br>
+</div>
+
+# About me :)
+<img src="https://64.media.tumblr.com/8a29b3a47f6e86976e924372d352fb75/tumblr_n1rm2kaYE51s9jnzyo3_500.gif" align="right">
+<li>
+ <b>Name:</b> João Pedro
+<li>
+<b>Loves:</b> anime, films, and series.
+</li>
+<li>
+<b>Gender:</b> he/him 🏳️‍⚧️
+</li>
+<li>
+<b>Hobbys:</b> Tech stuff, read books and play Minecraft.
+</li>
+<br><br><br><br>
+</div>
+
+
+# Knowledge
+<div>
+ <br>
+<p>
+
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+</div>
+<p>
+<p align="left">
 
 <img align="center" alt="cat-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
@@ -17,17 +45,13 @@ I'm studying Computer Science. Just looking for opportunities, collaborating on 
 <img align="center" alt="cat-BOOTSTRAP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
 <img align="center" alt="cat-JAVASCRIPT" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<br><br><br>
+<!---
+o very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
+--->
+</p>
+<br>
 
-
-
-</div>
-  
-  ##
- 
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/catarina-lima16/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/catarinalimx/)
 ![Snake animation](https://github.com/victorgnoatto/victorgnoatto/blob/output/github-contribution-grid-snake.svg)
 
 <!---
