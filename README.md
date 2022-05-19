@@ -4,7 +4,7 @@
 and always learning.</p>
 <br><br>
 <h1 align="center">About me :)</h1>
-<img src="https://64.media.tumblr.com/0e65676674be337c870c958868c70c42/0b8ac45df66aa86f-a5/s400x600/89d3a5bb68b2e7d908f329aeabff66b30a45554a.gif" align="left" width=300><br>
+<img src="https://64.media.tumblr.com/0e65676674be337c870c958868c70c42/0b8ac45df66aa86f-a5/s400x600/89d3a5bb68b2e7d908f329aeabff66b30a45554a.gif" align="left" width="80%" height="px">
 <li>
  <b>Name:</b> João Pedro
 <li>
@@ -21,13 +21,13 @@ and always learning.</p>
 </li>
 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <h1 align="center">Knowledge.</h1>
 <div>
 <br>
 <p>
-<img src="https://64.media.tumblr.com/3db4d8ec707cfd6bd35ee9753779e434/9a1c050934a6b785-a4/s400x600/866846b726b9e009cdbc6af5287ff987b84b6d10.gif" align="right">
+<img src="https://64.media.tumblr.com/3db4d8ec707cfd6bd35ee9753779e434/9a1c050934a6b785-a4/s400x600/866846b726b9e009cdbc6af5287ff987b84b6d10.gif" align="center">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/php%20-%2331A8FF.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
