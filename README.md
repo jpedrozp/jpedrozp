@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro.</h1>
-<h3 align="center">I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.</h3>
+<p align="center">I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.</p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpedrozp&label=Profile%20views&color=0e75b6&style=flat" alt="jpedrozp" /> </p>
 
