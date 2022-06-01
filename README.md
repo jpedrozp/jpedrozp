@@ -21,7 +21,4 @@
 
 
 
-
-
-
 ![snake gif](https://github.com/jpedrozp/jpedrozp/blob/output/github-contribution-grid-snake.svg)
